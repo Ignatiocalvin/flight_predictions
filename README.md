@@ -1,6 +1,7 @@
 ![image](https://github.com/Ignatiocalvin/flight_predictions/assets/50834160/4b94c951-e0fa-459f-a444-869ebb3a3dc2)
 
-![link](https://docs.google.com/document/d/1Ae0xtEXFEMzhun0KKtgLBYkRW7adbTQI28qCInSYUVk/edit?usp=sharing)
+Link to report:
+https://docs.google.com/document/d/1Ae0xtEXFEMzhun0KKtgLBYkRW7adbTQI28qCInSYUVk/edit?usp=sharing
 
 ## 🔨 1. The Problem
 Flight delays are grave problems for both passengers and airlines. While there are many factors that contribute to flight delays, dangerous weather like storms, fog, and high wind speeds plays an undoubtedly significant role. Fortunately, there are vast amounts of data pertaining to weather and aviation recorded by meteorology stations and airports. Therefore, with the correct application of data processing and machine learning, we would be able to build a model that could aid in predicting flight delays based on weather conditions.
