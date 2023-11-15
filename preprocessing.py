@@ -1,3 +1,5 @@
+import numpy as np
+
 class preprocessing_ops():
     def __init__(self, df):
         self.df = df
